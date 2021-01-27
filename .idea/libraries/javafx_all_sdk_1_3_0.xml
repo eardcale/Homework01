@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="javafx:all-sdk:1.3.0" type="repository">
+    <properties maven-id="javafx:all-sdk:1.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/all-sdk/1.3.0/all-sdk-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafxc/1.3.0/javafxc-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafxrt/1.3.0/javafxrt-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/rt15/1.3.0/rt15-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-geom/1.3.0/javafx-geom-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-ui-common/1.3.0/javafx-ui-common-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-ui-desktop/1.3.0/javafx-ui-desktop-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-ui-swing/1.3.0/javafx-ui-swing-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/fxdloader/1.3.0/fxdloader-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/websvc/1.3.0/websvc-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-ui-controls/1.3.0/javafx-ui-controls-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-ui-charts/1.3.0/javafx-ui-charts-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-common/1.3.0/javafx-common-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-io/1.3.0/javafx-io-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafxrt-main/1.3.0/javafxrt-main-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-ext-swing/1.3.0/javafx-ext-swing-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-sg-common/1.3.0/javafx-sg-common-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-sg-swing/1.3.0/javafx-sg-swing-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javafx/javafx-anim/1.3.0/javafx-anim-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
